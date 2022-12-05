@@ -1,0 +1,37 @@
+body {
+  background-image: url('Cofffe.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+image{
+  color: white;
+  font-size: 100px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+h1,p{
+  text-align: center;
+}
+h2{
+
+}
+.container{
+  background-color: white;
+  margin-top: 60px;
+  margin-left: 400px;
+  margin-right: 400px;
+}
+hr {
+  margin-left: auto;
+  margin-right: auto;
+  border-width: 1px;
+  border-color: red;
+}
+h2{
+  text-align: center;
+}
